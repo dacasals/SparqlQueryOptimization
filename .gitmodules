@@ -1,3 +1,6 @@
 [submodule "Code/Data_Acquisition_and_Understanding/learnedcardinalities"]
 	path = Code/Data_Acquisition_and_Understanding/learnedcardinalities
 	url = git@github.com:dacasals/learnedcardinalities.git
+[submodule "Code/Data_Acquisition_and_Understanding/query2vec"]
+	path = Code/Data_Acquisition_and_Understanding/query2vec
+	url = git@github.com:dacasals/sparql-query2vec.git
